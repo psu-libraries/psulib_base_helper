@@ -1,0 +1,12 @@
+{
+    "name": "psu-libraries/psulib_base_helper",
+    "description": "Helper module that works with the psulib_base base theme.",
+    "type": "drupal-module",
+    "authors": [
+        {
+            "name": "Mike Henninger",
+            "email": "msh6004@psu.edu"
+        }
+    ],
+    "require": {}
+}
