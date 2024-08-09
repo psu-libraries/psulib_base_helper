@@ -1,0 +1,18 @@
+<?php
+
+/**
+ * @file
+ * Primary module hooks for psulib_base_helper module.
+ */
+
+/**
+ * Implements hook_theme().
+ */
+function psulib_base_helper_theme($existing, $type, $theme, $path): array {
+  return [
+    'psul_copyright' => [
+      'variables' => [],
+    ],
+  ];
+
+}
