@@ -10,7 +10,7 @@
  */
 function psulib_base_helper_theme($existing, $type, $theme, $path): array {
   return [
-    'psul_copyright' => [
+    'psulib_base_copyright' => [
       'variables' => [],
     ],
   ];

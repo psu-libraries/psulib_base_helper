@@ -22,7 +22,7 @@ final class CopyrightBlock extends BlockBase {
    */
   public function build(): array {
     $build['content'] = [
-      '#theme' => 'psul_copyright',
+      '#theme' => 'psulib_base_copyright',
     ];
     return $build;
   }
