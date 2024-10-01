@@ -3,3 +3,5 @@ type: module
 description: 'Helper module that works with the psulib_base base theme.'
 package: PSU Libraries
 core_version_requirement: ^10 || ^11
+dependencies:
+  - drupal:system
